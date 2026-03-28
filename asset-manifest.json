@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/expo-todo-app/static/js/main.4dd18ae2.js",
+    "static/js/148.33af92b8.js": "/expo-todo-app/static/js/148.33af92b8.js",
+    "favicon.ico": "/expo-todo-app/favicon.ico",
+    "index.html": "/expo-todo-app/index.html",
+    "static/media/rocket.png": "/expo-todo-app/static/media/rocket.d2f3bf41d5e4515c39a9.png",
+    "static/media/bell.png": "/expo-todo-app/static/media/bell.cf04af27d6a651c4b904.png",
+    "favicon-32.png": "/expo-todo-app/favicon-32.png",
+    "static/media/star.png": "/expo-todo-app/static/media/star.69c7138684828d68fe5a.png",
+    "static/media/heart.png": "/expo-todo-app/static/media/heart.23b5c2c0eb77d50ff1b4.png",
+    "favicon-16.png": "/expo-todo-app/favicon-16.png",
+    "serve.json": "/expo-todo-app/serve.json",
+    "manifest.json": "/expo-todo-app/manifest.json",
+    "main.4dd18ae2.js.map": "/expo-todo-app/static/js/main.4dd18ae2.js.map",
+    "148.33af92b8.js.map": "/expo-todo-app/static/js/148.33af92b8.js.map"
+  },
+  "entrypoints": [
+    "static/js/148.33af92b8.js",
+    "static/js/main.4dd18ae2.js"
+  ]
+}
