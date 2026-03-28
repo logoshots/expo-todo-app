@@ -23,10 +23,7 @@
       "edgeToEdgeEnabled": true
     },
     "web": {
-      "favicon": "./assets/favicon.png",
-      "build": {
-        "publicPath": "/expo-todo-app/"
-      }
+      "favicon": "./assets/favicon.png"
     }
   }
 }
